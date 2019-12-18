@@ -10,7 +10,7 @@ class Mutations:
 
 class Data:
     def __init__(self):
-        self.character_id = None
+        self.character_id = ""
         self.terrain = Terrain()
         self.characters = {}
         self.items = {}
