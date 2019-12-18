@@ -1,5 +1,0 @@
-setup.py
-cctool.egg-info/PKG-INFO
-cctool.egg-info/SOURCES.txt
-cctool.egg-info/dependency_links.txt
-cctool.egg-info/top_level.txt
